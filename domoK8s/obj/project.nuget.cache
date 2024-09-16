@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9gH6B7IqVJk6WUXTcx+zhHsDvLjr9SmGIABMD84zbkBeuFJfRqgojTHUNOeiykHUfY4SZfO/80rRMPcQU+l8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshaykumar10\\OneDrive - Nagarro\\Desktop\\docker And k8s\\domoK8s\\domoK8s\\domoK8s.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshaykumar10\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

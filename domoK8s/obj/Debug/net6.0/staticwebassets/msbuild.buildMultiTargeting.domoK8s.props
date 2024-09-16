@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\domoK8s.props" />
+</Project>
